@@ -13,4 +13,5 @@ A synthesizable Synchronous FIFO (First-In, First-Out) memory buffer implemented
 
 ## Tools Used
 * **Language:** Verilog
-* **Simulation:**  Vivado 
+* **Simulation:**  Vivado Simulator
+* **EDA Tool**  Vivado Simulator
